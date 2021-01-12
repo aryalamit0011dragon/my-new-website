@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Winter Dragons</title>
+
+<!---Font Awsome Icons-->
+<link rel="stylesheet" href="./css/all.css">
+
+
+<!---------------------------------Owl Carousel css----------------------->
+
+<link rel="stylesheet" href="./css/owl.carousel.min.css">
+<link rel="stylesheet" href="./css/owl.theme.default.min.css">
+
+<!--Custom Style-->
+<link rel="stylesheet" href="./css/Style.css">
+</head>
+<body>
+    <!----------------------------Navigation------------------------------------------------>
+
+<nav class="nav">
+    <div class="nav-menu flex-row">
+        <div class="nav-brand">
+        <a href="#" class="text-gray">Winter Dragons</a>
+        </div>
+    <div class="toggle-collapse">
+        <div class="toggle-icons">
+            <i class="fas fa-bars"></i>
+        </div>
+    </div>
+    <div>
+    <ul class="nav-items">
+    <li class="nav-link">
+        <a href="#">Home</a>
+    </li>
+    <li class="nav-link">
+        <a href="#">About Us</a>
+    </li>
+    <li class="nav-link">
+        <a href="#">Contact</a>
+    </li>
+    <li class="nav-link">
+        <a href="#">Posts</a>
+    </li>
+    <li class="nav-link">
+        <a href="#">Announcement</a>
+    </li>
+    </ul>
+    </div>
+<div class="social text-gray">
+<a href="#"><i class="fab fa-facebook"></i></a>
+<a href="#"><i class="fab fa-instagram"></i></a>
+<a href="#"><i class="fab fa-whatsapp"></i></a>
+<a href="#"><i class="fab fa-twitter"></i></a>
+<a href="#"><i class="fab fa-youtube"></i></a>
+</div>
+    </div>
+</nav>
+
+     <!--x--------------------------Navigation---------------------------------x--------------->
+
+
+    <!------------------------------Main Site Section-------------------------------------------->
+
+<main>
+
+    <!--------------------------------Site title-------------------------------------------------->
+
+    <section class="site-title">
+        <div class="site-background">
+            <h3>Get To Know Us</h3>
+            <h1>The Winter Dragons</h1>
+            <button class="btn">Explore</button>
+        </div>
+    </section>
+
+    <!---------x-----------------------Site title--------------x------------------------------------>
+
+    <!-------------------------------------Blog carousel------------------------------------------------>
+
+<section>
+    <div class="blog">
+        <div class="container">
+            <div class="owl-carousel owl-theme blog-post">
+                <div class="blog-content">
+                    <img src="./assets/wallimage.jpg" alt="Post-1">
+                    <div class="blog-title">
+                        <h3>Posts</h3>
+                        <button class="btn btn-blog">Learn More</button>
+                        <span>2 minutes</span>
+                    </div>
+                  
+                </div>
+                <div class="blog-content">
+                    <img src="./assets/mask.jpg" alt="Post-1">
+                    <div class="blog-title">
+                        <h3>Recent News</h3>
+                        <button class="btn btn-blog">Learn More</button>
+                        <span>2 minutes</span>
+                    </div>
+                  
+                </div>
+                <div class="blog-content">
+                    <img src="./assets/quote.jpg" alt="Post-1">
+                    <div class="blog-title">
+                        <h3>Each and every one is inspired and thats a quote</h3>
+                        <button class="btn btn-blog">Learn More</button>
+                        <span>2 minutes</span>
+                    </div>
+                  
+                </div>
+                <div class="blog-content">
+                    <img src="./assets/joke.jpg" alt="Post-1">
+                    <div class="blog-title">
+                        <h3>Laugh has a meaning and its jokes!!</h3>
+                        <button class="btn btn-blog">Learn More</button>
+                        <span>2 minutes</span>
+                    </div>
+                  
+                </div>
+                <div class="blog-content">
+                    <img src="./assets/people succes.jpg" alt="Post-1">
+                    <div class="blog-title">
+                        <h3>We Believe In Person Not His Success</h3>
+                        <button class="btn btn-blog">Learn More</button>
+                        <span>2 minutes</span>
+                    </div>
+                  
+                </div>
+            </div>
+
+            </div>
+            <div class="owl-navigation">
+                <span class="owl-nav-prev"><i class="fas fa-long-arrow-alt-left"></i></span>
+                <span class="owl-nav-next"><i class="fas fa-long-arrow-alt-right"></i></span>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    <!------------x-------------------------Blog carousel--------------------x---------------------------->
+
+<!-------------------------------------------Site Content------------------------------------------------->
+
+<section class="container">
+    <div class="site-content">
+        <div class="posts">
+            <div class="post-content">
+                <div class="post-image">
+                    <div>
+                        <img src="./assets/wallimage.jpg" class="img" alt="blog1">
+                    </div>
+                    <div class="post-info flex-row">
+                        <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp;Admin</span>
+                        <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;January, 2021</span>
+                        <span>2 Comments</span>
+                    </div>
+                </div>
+                <div class="post-title">
+                    <a href="#">The World Seems Oval And We Think God Is Great? If So Spirit Of Extacy Is Its Father!! </a>
+                    <p>People take god as the superior as it created the World? 
+                        But why can't we take Spirit of extacy as superior 
+                        as it created the god! Answer lies in you. </p>
+                        <button class="btn post-btn">Read More &NonBreakingSpace;<i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+            <hr>
+            <div class="post-content">
+                <div class="post-image">
+                    <div>
+                        <img src="./assets/lockdown.jpg" class="img" alt="blog1">
+                    </div>
+                    <div class="post-info flex-row">
+                        <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp;Admin</span>
+                        <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;December, 2020</span>
+                        <span>100 Comments</span>
+                    </div>
+                </div>
+                <div class="post-title">
+                    <a href="#">Is the world  in the phase of extintion </a>
+                    <p> According to the officials there has been a vast impact of covid 19 in 
+                        the human living. The year 2020 also known as a back year in the history of 
+                        world is also taken as a back friday............!! </p>
+                        <button class="btn post-btn">Read More &NonBreakingSpace;<i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+            <hr>
+            <div class="post-content">
+                <div class="post-image">
+                    <div>
+                        <img src="./assets/tea.jpg" class="img" alt="blog1">
+                    </div>
+                    <div class="post-info flex-row">
+                        <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp;Admin</span>
+                        <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;December, 2020</span>
+                        <span>100 Comments</span>
+                    </div>
+                </div>
+                <div class="post-title">
+                    <a href="#">Is the world  in the phase of extintion </a>
+                    <p> According to the officials there has been a vast impact of covid 19 in 
+                        the human living. The year 2020 also known as a back year in the history of 
+                        world is also taken as a back friday............!! </p>
+                        <button class="btn post-btn">Read More &NonBreakingSpace;<i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+            <hr>
+            <div class="post-content">
+                <div class="post-image">
+                    <div>
+                        <img src="./assets/joke.jpg" class="img" alt="blog1">
+                    </div>
+                    <div class="post-info flex-row">
+                        <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp;Admin</span>
+                        <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;Feburary, 2020</span>
+                        <span>1500 Comments</span>
+                    </div>
+                </div>
+                <div class="post-title">
+                    <a href="#">The happiness in life comes from jokes!! </a>
+                    <p> People laugh everyday because of Jokes!! </p>
+                        <button class="btn post-btn">Read More &NonBreakingSpace;<i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+            <hr>
+            <div class="post-content">
+                <div class="post-image">
+                    <div>
+                        <img src="./assets/quote.jpg" class="img" alt="blog1">
+                    </div>
+                    <div class="post-info flex-row">
+                        <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp;Admin</span>
+                        <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;Januyary, 2020</span>
+                        <span>2500 Comments</span>
+                    </div>
+                </div>
+                <div class="post-title">
+                    <a href="#">Many Inspiration's come from qoutes </a>
+                    <p> To inspire you everyday we post a daily quote so that you can make your
+                        day happy and peacefull. Follow winter dragons for more quotes </p>
+                        <button class="btn post-btn">Read More &NonBreakingSpace;<i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+            <div class="pagination flex-row">
+                <a href="#" ><i class="fas fa-chevron-left"></i></a>
+                <a href="#" class="pages">1</a>
+                <a href="#" class="pages">2</a>
+                <a href="#" class="pages">3</a>
+                <a href="#" ><i class="fas fa-chevron-right"></i></a>
+                
+            </div>
+        </div>
+        <aside class="sidebar">
+            <div class="category">
+                <h2>Category</h2>
+                <ul class="category-list">
+                    <li class="list-items">
+                        <a href="#">Software</a>
+                        <span>(10)</span>
+                    </li>
+                    <li class="list-items">
+                        <a href="#">Posts</a>
+                        <span>(2)</span>
+                    </li>
+                    <li class="list-items">
+                        <a href="#">Jokes</a>
+                        <span>(15)</span>
+                    </li>
+                    <li class="list-items">
+                        <a href="#">Recent News</a>
+                        <span>(55)</span>
+                    </li>
+                    <li class="list-items">
+                        <a href="#">Quotes</a>
+                        <span>(59)</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="popular-post">
+                <h2>Popular Post</h2>
+                 <div class="post-content">
+                    <div class="post-image">
+                        <div>
+                            <img src="./assets/wallpaperimage.jpg" class="img" alt="blog1">
+                        </div>
+                        <div class="post-info flex-row">
+                            <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;Januyary, 2020</span>
+                            <span>2500 Comments</span>
+                        </div>
+                    </div>
+                    <div class="post-title">
+                        <a href="#">People Learn To Have Life Not Success </a>
+                    </div>
+                </div>
+                 <div class="post-content">
+                    <div class="post-image">
+                        <div>
+                            <img src="./assets/rolls_royce_ghost_2021_5k_wallpaper-1920x1080.jpg" class="img" alt="blog1">
+                        </div>
+                        <div class="post-info flex-row">
+                            <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;Januyary, 2020</span>
+                            <span>2500 Comments</span>
+                        </div>
+                    </div>
+                    <div class="post-title">
+                        <a href="#">Dont Dream Of Getting Rich! Be the one in real life.</a>
+                    </div>
+                </div>
+                 <div class="post-content">
+                    <div class="post-image">
+                        <div>
+                            <img src="./assets/tea.jpg" class="img" alt="blog1">
+                        </div>
+                        <div class="post-info flex-row">
+                            <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;Januyary, 2020</span>
+                            <span>2500 Comments</span>
+                        </div>
+                    </div>
+                    <div class="post-title">
+                        <a href="#">A drop of alcohol is worse  than millon sips of tea. </a>
+                    </div>
+                </div>
+                 <div class="post-content">
+                    <div class="post-image">
+                        <div>
+                            <img src="./assets/humanity-wallpaper-1920x1200 (1).jpg" class="img" alt="blog1">
+                        </div>
+                        <div class="post-info flex-row">
+                            <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;Januyary, 2020</span>
+                            <span>2500 Comments</span>
+                        </div>
+                    </div>
+                    <div class="post-title">
+                        <a href="#">Human's remain but without humanity </a>
+                    </div>
+                </div>
+                 <div class="post-content">
+                    <div class="post-image">
+                        <div>
+                            <img src="./assets/loyalty.jpg" class="img" alt="blog1">
+                        </div>
+                        <div class="post-info flex-row">
+                            <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;Januyary, 2020</span>
+                            <span>2500 Comments</span>
+                        </div>
+                    </div>
+                    <div class="post-title">
+                        <a href="#">You can buy anything with money except loyalty </a>
+                    </div>
+                </div>
+                 <div class="post-content">
+                    <div class="post-image">
+                        <div>
+                            <img src="./assets/meme.jpg" class="img" alt="blog1">
+                        </div>
+                        <div class="post-info flex-row">
+                            <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;Januyary, 2020</span>
+                            <span>2500 Comments</span>
+                        </div>
+                    </div>
+                    <div class="post-title">
+                        <a href="#">Meme's are always the best if you do it without hurting other's </a>
+                    </div>
+                </div>
+            </div>
+            <div class="newsletter">
+                <h2>Newsletter</h2>
+                <div class="form-element">
+                    <input type="text" class="input-element" placeholder="Email">
+                    <button class="btn form-btn">Subscribe</button>
+                </div>
+            </div>
+            <div class="popular-tags">
+                <h2>Popular Tags</h2>
+                <div class="tags">
+                    <span class="tag">Announcement</span>
+                    <span class="tag">Posts</span>
+                    <span class="tag">Jokes</span>
+
+                </div>
+            </div>
+        </aside>
+    </div>
+</section>
+
+
+<!-----------------x--------------------------Site Content---------------------------x---------------------->
+
+</main>
+
+    <!--------------x----------------Main Site Section---------------------x---------------------->
+
+
+<!--------------------------------------Footer--------------------------------------------------------->
+
+
+<footer class="footer">
+    <div class="container">
+      <div class="about-us">
+          <h2>About Us</h2>
+          <p>We The Winter Dragons are a group of 5 students of Liverpool Secondary School and are in the phase of making the best website for students, teachers and other peoples. 
+              This page is designed for knowledge as well as for information.
+      </div> 
+      <div class="newsletter">
+          <h2>Newsletter</h2>
+          <p>Stay Updated with us to get our post as soon as possible</p>
+          <div class="form-element">
+              <input type="text" placeholder="Email"><span><i class="fas fa-chevron-right"></i></span>
+          </div>
+      </div>
+      <div class="instagram">
+          <h2>Instagram</h2>
+          <div class="flex-row">
+              <img src="./assets/wallpaperimage.jpg" alt="Insta1">
+              <img src="./assets/rolls_royce_ghost_2021_5k_wallpaper-1920x1080.jpg" alt="Insta2">
+              <img src="./assets/wallimage.jpg" alt="Insta3">
+              <img src="./assets/tea.jpg" alt="Insta4">
+              <img src="./assets/quote.jpg" alt="Insta4">
+              <img src="./assets/joke.jpg" alt="Insta4">
+          </div>
+      </div>
+      <div class="follow">
+          <h2>Follow Us</h2>
+          <p>Let us be social</p>
+          <div>
+              <i class="fab fa-facebook-f"></i>
+              <i class="fab fa-twitter"></i>
+              <i class="fab fa-instagram"></i>
+              <i class="fab fa-whatsapp"></i>
+              <i class="fab fa-youtube"></i>
+          </div>
+      </div>      
+    </div>
+    <div class="rights flex-row">
+        <h4 class="text-gray">
+            Copyright ©2021 All rights reserved| Made by 
+            <a href="https://www.instagram.com/aryal_amit0011/" target="_black"><i class="fab fa-instagram"></i> Winter Dragons</a>
+        </h4>
+    </div>
+<div class="move-up">
+    <span><i class="fas fa-arrow-circle-up fa-2x"></i></span>
+</div>
+
+</footer>
+
+<!-----------------------x---------------Footer---------------------------x------------------------------>
+
+    <!--Jquery library file-->
+<script src="./js/Jquery3.5.1 .min.js"></script>
+
+<!---------------------------------Owl Carousel js----------------------->
+
+<script src="./js/owl.carousel.min.js"></script>
+
+
+<!--Custom Javascript-->
+    <script src="./js/main.js"></script>
+</body>
+</html>
